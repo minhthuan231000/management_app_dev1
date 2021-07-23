@@ -1,1 +1,7 @@
-# management_app_dev1
+# Setup
+Clone project:
+git clone 
+Run:
+B1: Clone project
+B2: import database in SQL server
+B2: Start
